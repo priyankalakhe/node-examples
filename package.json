@@ -1,0 +1,22 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyankalakhe/node-examples.git"
+  },
+  "author": "Priyanka Lakhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyankalakhe/node-examples/issues"
+  },
+  "homepage": "https://github.com/priyankalakhe/node-examples#readme",
+  "dependencies": {
+    "yargs": "^8.0.1"
+  }
+}
